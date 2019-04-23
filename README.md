@@ -42,11 +42,11 @@
 * **bye bye 3250+ 3251 
 
 * **project milestone 2 done!!
-
-![](https://github.com/csci3250-2019/student-1155110415/blob/master/github1.png)
-![](https://github.com/csci3250-2019/student-1155110415/blob/master/github2.png)
-![](https://github.com/csci3250-2019/student-1155110415/blob/master/github3.png)
-![](https://github.com/csci3250-2019/student-1155110415/blob/master/github4.png)
+## Screenshots
+![Githublogo](https://github.com/csci3250-2019/student-1155110415/blob/master/github1.png)
+![Githublogo](https://github.com/csci3250-2019/student-1155110415/blob/master/github2.png)
+![Githublogo](https://github.com/csci3250-2019/student-1155110415/blob/master/github3.png)
+![Githublogo](https://github.com/csci3250-2019/student-1155110415/blob/master/github4.png)
 
 
 
